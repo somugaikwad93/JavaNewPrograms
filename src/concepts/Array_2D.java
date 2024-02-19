@@ -1,3 +1,5 @@
+package concepts;
+
 public class Array_2D {
     public static void main(String[] args) {
         int[][] a = {{10,20,30},{40,50,70}};
